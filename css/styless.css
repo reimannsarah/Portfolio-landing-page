@@ -17,19 +17,15 @@ body {
 .about h3 {
   text-align: center;
 }
-.projects-container{
-  width: 40%;
+.projects-container {
+  width: 30%;
   float: left;
 }
-.projects-container h3 {
-  text-align: center;
+.projects-container ul {
+  list-style: none;
 }
-.projects-container .project {
+.project {
   background-color: #CBD081;
-  margin: 30px;
   padding: 13px;
-  border-radius: 8px;
-}
-.projects-container h4 {
-  margin-top: 0;
+  margin: 15px;
 }
