@@ -17,7 +17,19 @@ body {
 .about h3 {
   text-align: center;
 }
-.projects{
-  width: 50%;
+.projects-container{
+  width: 40%;
   float: left;
+}
+.projects-container h3 {
+  text-align: center;
+}
+.projects-container .project {
+  background-color: #CBD081;
+  margin: 30px;
+  padding: 13px;
+  border-radius: 8px;
+}
+.projects-container h4 {
+  margin-top: 0;
 }
