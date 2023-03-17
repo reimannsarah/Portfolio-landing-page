@@ -44,6 +44,9 @@ body {
   text-align: center;
   margin-bottom: 0;
 }
+.name {
+  font-weight: bolder;
+}
 .about-content {
   width: 50%;
   float: right;
