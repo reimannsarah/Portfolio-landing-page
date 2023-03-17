@@ -16,6 +16,7 @@ body {
   margin: 0 5%;
   padding: 5px;
   border-radius: 8px;
+  border: solid #A43154;
 }
 .projects-container {
   width: 45%;
@@ -38,6 +39,7 @@ body {
   margin: 15px;
   border-radius: 8px;
   box-sizing: border-box;
+  border: solid #417B5A;
 }
 
 .about h3 {
@@ -56,6 +58,7 @@ body {
   padding: 14px;
   border-radius: 8px;
   box-sizing: border-box;
+  border: solid #2A2E45;
 }
 .about-content img {
   width: 45%;
@@ -73,7 +76,8 @@ body {
   background-color: #80B195;
   padding: 14px;
   border-radius: 8px;
-  margin: 20px 20px 0;
+  margin: 20px 20px;
   box-sizing: border-box;
+  border: solid #2A2E45;
 
 }
