@@ -21,6 +21,12 @@ body {
   width: 30%;
   float: left;
 }
+.projects-container h3 {
+  text-align: center;
+}
+.projects-container h4 {
+  margin-top: 0;
+}
 .projects-container ul {
   list-style: none;
 }
@@ -28,4 +34,5 @@ body {
   background-color: #CBD081;
   padding: 13px;
   margin: 15px;
+  border-radius: 8px;
 }
