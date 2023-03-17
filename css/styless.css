@@ -1,8 +1,23 @@
-body{
-  background-color: #A7BB99;
-  
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap");
+
+body {
+  background-color: #a7bb99;
+  font-family: Comfortaa, sans serif, monspace;
 }
-img {
-  width: 30%;
+.about {
+  width: 50%;
+  float: right;
+}
+.about img {
+  width: 50%;
   box-sizing: border-box;
+  float: right;
+  border-radius: 8px;
+}
+.about h3 {
+  text-align: center;
+}
+.projects{
+  width: 50%;
+  float: left;
 }
