@@ -92,9 +92,11 @@ body {
   .about {
     width: 100%;
     float: left;
+    margin: 10px;
   }
   .goals {
     width: 100%;
     float: left;
+    margin: 10px;
   }
 }
