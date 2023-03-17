@@ -4,7 +4,7 @@ body {
   background-color: #a7bb99;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: #2a2e45;
-  background-image: radial-gradient(#659A7C 20%, #a7bb99 20%);
+  background-image: radial-gradient(#659a7c 20%, #a7bb99 20%);
   height: 100px;
   width: 100px;
   background-position: 0 0;
@@ -16,9 +16,8 @@ body {
   text-align: center;
 }
 .header h1 {
-  margin: 50px 35% 20px;
+  margin: 30px 35% 20px;
   background-color: #a7bb99;
-  
 }
 .header h3 {
   background-color: #e8cdd5;
@@ -35,7 +34,7 @@ body {
 }
 .projects-container h3 {
   text-align: center;
-  background-color:#a7bb99;
+  background-color: #a7bb99;
   margin: 18px 30%;
   padding-top: 2px;
 }
@@ -53,17 +52,23 @@ body {
   box-sizing: border-box;
   border: solid #417b5a;
 }
-
+.about {
+  width: 52%;
+  float: right;
+  box-sizing: border-box;
+  margin-right: 20px 20px 0 0;
+  padding: ;
+}
 .about h3 {
   text-align: center;
-  background-color:#a7bb99;
+  background-color: #a7bb99;
+  margin: 17px 30%;
+  padding-top: 2px;
 }
 .name {
   font-weight: bolder;
 }
 .about-content {
-  width: 50%;
-  float: right;
   background-color: #9fbdc6;
   color: #2a2e45;
   margin: 20px 20px 0 0;
