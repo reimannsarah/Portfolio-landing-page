@@ -4,12 +4,15 @@ body {
   background-color: #a7bb99;
   font-family: Comfortaa, sans serif, monspace;
 }
+h1 {
+  margin: 0 0 50 ;
+}
 .about {
   width: 50%;
   float: right;
 }
 .about img {
-  width: 50%;
+  width: 45%;
   box-sizing: border-box;
   float: right;
   border-radius: 8px;
@@ -18,8 +21,10 @@ body {
   text-align: center;
 }
 .projects-container {
-  width: 30%;
+  width: 45%;
   float: left;
+  padding-left: 0;
+  box-sizing: border-box;
 }
 .projects-container h3 {
   text-align: center;
